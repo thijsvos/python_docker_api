@@ -14,5 +14,6 @@ Install python packages using the requirements.txt file: `pip install -r require
 
 ## Usage
 
+Obviously change the password in the `secrets.json` file.
 run the API using the following command: `$ uvicorn main:app`.
 Then view the API documentation through the following url: `http://127.0.0.1:8000/docs`.
