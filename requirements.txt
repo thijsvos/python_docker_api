@@ -1,0 +1,5 @@
+asyncio
+docker
+fastapi
+uvicorn
+aiofiles
